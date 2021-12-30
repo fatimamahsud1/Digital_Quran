@@ -5,6 +5,13 @@ A Digital Quran Project in which API is used to fetch data from Server. This pro
 
 
 
+
+![Demoposter-01](https://user-images.githubusercontent.com/76597173/147779026-f53d0dbf-6068-4fe4-8413-5c69d905e2d7.png)
+
+
+
+
+
 <img width="227" alt="Screenshot 2021-12-16 151631" src="https://user-images.githubusercontent.com/76597173/146381967-507710dd-7f81-4f19-a290-7847bb7b2e99.png">    <img width="226" alt="sc3" src="https://user-images.githubusercontent.com/76597173/146381994-4c099dd6-845e-4e29-bc33-7b95f56894d3.png">     <img width="226" alt="sc2" src="https://user-images.githubusercontent.com/76597173/146382089-ed3b0faf-4ec4-4df6-b3e4-e349815a359d.png">   
 
 
