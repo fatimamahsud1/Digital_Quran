@@ -6,7 +6,7 @@ A Digital Quran Project in which API is used to fetch data from Server. This pro
 
 
 
-![Demoposter-01](https://user-images.githubusercontent.com/76597173/147779026-f53d0dbf-6068-4fe4-8413-5c69d905e2d7.png)
+![portable-01](https://user-images.githubusercontent.com/76597173/182090446-bd8f596e-147e-46af-8bc1-aa5a284c6a71.png)
 
 
 
@@ -14,18 +14,24 @@ A Digital Quran Project in which API is used to fetch data from Server. This pro
 
 
 
-<img width="227" alt="Screenshot 2021-12-16 151631" src="https://user-images.githubusercontent.com/76597173/146381967-507710dd-7f81-4f19-a290-7847bb7b2e99.png">    <img width="226" alt="sc3" src="https://user-images.githubusercontent.com/76597173/146381994-4c099dd6-845e-4e29-bc33-7b95f56894d3.png">     <img width="226" alt="sc2" src="https://user-images.githubusercontent.com/76597173/146382089-ed3b0faf-4ec4-4df6-b3e4-e349815a359d.png">   
+<img width="224" alt="1" src="https://user-images.githubusercontent.com/76597173/182090532-e2581355-8c7a-461d-82d2-0fa875d17455.png">
+<img width="227" alt="2" src="https://user-images.githubusercontent.com/76597173/182090681-aca168d3-2b4b-418e-b88f-c2876efdce3c.png">
+      <img width="224" alt="3" src="https://user-images.githubusercontent.com/76597173/182090748-7a81b1c5-9f04-4b2c-b23c-04bfe411c4fe.png">
+
+ 
+ 
+<img width="227" alt="4" src="https://user-images.githubusercontent.com/76597173/182090821-f2334ef1-22e2-48ee-8a11-7640588f9283.png">    <img width="227" alt="5" src="https://user-images.githubusercontent.com/76597173/182090899-806dc962-c63c-4ba9-ae9a-ea58a118d3d2.png">    <img width="227" alt="6" src="https://user-images.githubusercontent.com/76597173/182090958-1d34be3d-32ad-4136-8a2c-7eb54cb5d2cd.png">
+  
 
 
-<img width="225" alt="sc4" src="https://user-images.githubusercontent.com/76597173/146382234-0a4d5c19-a807-4f31-9b8c-81118bc7059a.png">   <img width="227" alt="sc5" src="https://user-images.githubusercontent.com/76597173/146382274-a6230722-7303-4a18-b5b9-13199fa8ffcf.png">   <img width="226" alt="sc8" src="https://user-images.githubusercontent.com/76597173/146382330-ed29cf3e-4f0c-43eb-a020-d51c76ca5a08.png">   
+<img width="228" alt="7" src="https://user-images.githubusercontent.com/76597173/182091002-4b073acd-a7f9-4f94-9b5e-b7c6b8febf95.png">    <img width="226" alt="8" src="https://user-images.githubusercontent.com/76597173/182091035-35c78e60-1454-42fb-a474-b330124a8e1a.png">    <img width="226" alt="9" src="https://user-images.githubusercontent.com/76597173/182091073-9f332eb5-00e8-46be-8134-150ab544d36c.png">
+
+ 
 
 
-<img width="226" alt="sc7" src="https://user-images.githubusercontent.com/76597173/146382485-0329baa3-15cd-4b43-8e87-d681e8685890.png">   <img width="224" alt="sc6" src="https://user-images.githubusercontent.com/76597173/146382350-77acafdd-0d91-4317-95c1-7ae4285c4fd7.png">
 
 
-
-
-Made With Flutter
+Made With Flutter and FireBase
 
 
 
